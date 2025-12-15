@@ -3,8 +3,7 @@
 //  Clima
 //
 //  Created by Bahar Şen on 11.12.2025.
-//  Copyright © 2025 App Brewery. All rights reserved.
-//
+
 
 import Foundation
 
